@@ -1,0 +1,15 @@
+Calculus Graph Log File
+
+4/18/12 - 07:52 PM
+  - Improved install program and fixed readme display errors
+  - Unable to continue to create integral test
+  - Added feature to read eq.lst file
+  - Added icon for program and icon is now integrated into executable
+
+4/17/12 - 09:32 PM
+  - Started to modify to create integral test
+  - Added sample hypotenuse function to test GSL
+  - Added Readme with most information included
+  - Added log in current format
+  - Added GNU GPL License v2
+  - Started Project in FreeBASIC IDE FBEdit

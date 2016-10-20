@@ -1,0 +1,41 @@
+[Project]
+Version=3
+Description=Calculus Graph
+Api=fb (FreeBASIC)
+Grouping=1
+AddMainFiles=1
+AddModuleFiles=1
+ResExport=
+CompileIfNewer=0
+IncVersion=0
+RunCmd=0
+[Make]
+Module=Module Build,fbc -c
+Recompile=2
+Current=2
+1=Windows Console,fbc -s console
+2=Windows Console (debug),fbc -g -s console
+3=Windows GUI,fbc -s gui
+4=Windows GUI (debug),fbc -g -s gui
+Output=
+Run=
+Delete=
+[TabOrder]
+TabOrder=1,3,2,4,5
+[File]
+1=AP Calc.bas
+2=AP Calc.rc
+3=AP Calc.bi
+4=Readme.txt
+5=eq.lst
+[BreakPoint]
+1=
+3=
+4=
+5=
+[FileInfo]
+1=0,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2=0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3=0,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4=0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5=0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

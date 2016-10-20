@@ -1,0 +1,44 @@
+Calculus Graph Log File
+
+5/6/12 - 10:24 PM
+  - Added keyboard functions
+  - Confirmed correct limits and constants on integrals
+  - Added graphical boundaries for integrals
+
+5/5/12
+  - Removed integral flood filler
+  - Completed drawing systems for all functions
+
+5/1/12 - 8:50 PM
+  - Updated readme to match new information
+  - Finished information for integrals and lists of functions and derivatives
+  - Improved level of zoom on the graph
+
+4/20/12 - 09:58 PM
+  - Separated integral and function definitions into two files
+	separate from main program
+  - Fixed definitions to four different functions
+
+4/29/12 - 05:10 PM
+  - Added separate file for different functions
+  - Added Font routines to display text
+  - Added tasks for the second function
+  - Moved coordinate grid to the lower-left
+
+4/22/12 - 02:20 PM
+  - Updated certain sections of the readme to fit new system
+  - Implementation of OpenGL and GSL
+  - Switching development over from FreeBASIC to Microsoft Visual C++ 2010
+
+4/18/12 - 07:52 PM
+  - Improved install program and fixed readme display errors
+  - Added feature to read eq.lst file
+  - Added icon for program and icon is now integrated into executable
+
+4/17/12 - 09:32 PM
+  - Started to modify to create integral test
+  - Added sample hypotenuse function to test GSL
+  - Added Readme with most information included
+  - Added log in current format
+  - Added GNU GPL License v2
+  - Started Project in FreeBASIC IDE FBEdit
